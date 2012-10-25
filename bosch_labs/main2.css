@@ -1,0 +1,193 @@
+@charset "UTF-8";
+
+html {
+height:100%;
+}
+
+#nav {
+	float:right;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #09F;
+	background-color: #FFF;
+	padding-right: 45px;
+	padding-top: 5px;
+	
+}
+
+body {
+	
+	background-image:url(images/grid.png);
+	background-color:#FFF;
+}
+
+#container { 
+	height:100%;
+	width:960px;
+	background-color:#FFFFFF;
+	margin: auto; 
+}
+
+.shead {
+	font-size: 16px;
+	text-align:center;
+	color: #AAC0AB;
+}
+
+ #image {
+	 border-width: 1px;
+     border-color: Black;
+	 margin:0;
+	 padding:0;
+	 display:block;
+	 width:228px;
+	 height:300px;
+	
+ }
+ 
+ .products {
+	 border-width: 1px;
+     border-color: Black;
+	 margin:0;
+	 padding:0;
+	 
+	 width:228px;
+	 height:300px;
+	
+ }
+ 
+ #htext {
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size: 14px;
+	 width:640px;
+	 float:right;
+	 height:300px;
+	 
+ }
+ 
+ .mtext {
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size: 11px;
+	 width:670px;
+	 float:right;
+	 height:auto;
+	 
+ }
+ 
+ #current { 
+ color: #2a5a81; }
+ 
+  .atext {
+	  padding-top:0px;
+	 font-family: Arial, Helvetica, sans-serif;
+	 font-size: 12px;
+	 width:670px;
+	 float:right;
+	 height:auto;
+	 
+ }
+ 
+
+
+#slide {
+	display:block;
+	width:960px;
+	background-color:#FFF;
+}
+
+#text {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top:10px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top:10px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#three {
+	background-color:#CCC;
+}
+
+a:link {
+	text-decoration: none;
+	color: #669966;
+}
+
+a:visited {
+	color: #669966;
+	text-decoration: underline;
+}
+
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+	color: #2a5a81;
+}
+
+.center {
+	
+	text-align:center;
+}
+
+ h3 {
+	 font-size: 20px;
+	 color:#295981;
+ }
+ 
+ .navdiv {
+	
+	 text-align: right;
+ }
+ 
+ #footer { 
+ font-size: 14px;
+ text-align: center;
+	 	  
+ }
+ 
+ #fourd {
+color: #999;
+padding-bottom: 15px;
+ }
+ 
+ #fright {
+	 text-align: right;
+	 float:right;
+ }
+
+.pdiv {
+	float:left;
+	display:inline;
+	text-align:left;
+	margin-right:20px;
+}
+
+.pmar {
+	margin-top: -px;
+	margin-bottom: 1px;
+}
+
+.pmart {
+	margin-top: 5px;
+	color: #999; 
+}
+
+#mdiv {
+	margin-bottom:95px;
+	float:left;
+	display:inline;
+	text-align:left;
+	margin-right:20px;
+}
+
+.buy {
+	margin-left:10px;
+}
