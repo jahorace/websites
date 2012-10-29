@@ -69,7 +69,7 @@ nav{
 
 .navLink{
 	  font-family:Tahoma, Geneva, sans-serif;
-	  font-size: 25px; 
+	  font-size: 23px; 
 	  color:#000;
 	  text-decoration:none;
 	  border: none;
@@ -161,7 +161,7 @@ a.quickLink:hover{
 	width: 285px;
 	float: left;
 	position: relative;
-	padding-right:45px;
+	padding-right:35px;
 	font-family:Tahoma, Geneva, sans-serif;
 	font-size: 12px; 
 	letter-spacing: 1px;
@@ -173,7 +173,7 @@ a.quickLink:hover{
 	width: 285px;
 	float: left;
 	position: relative;
-	padding-right:45px;
+	padding-right:35px;
 	font-family:Tahoma, Geneva, sans-serif;
 	font-size: 12px; 
 	letter-spacing: 1px;
@@ -182,10 +182,10 @@ a.quickLink:hover{
 
 #youTube{
 	height: auto;
-	width: 280px;
+	width: 285px;
 	float: left;
 	position: relative;
-	padding-top:15px;
+	
 	font-family:Tahoma, Geneva, sans-serif;
 	font-size: 12px; 
 	letter-spacing: 1px;
